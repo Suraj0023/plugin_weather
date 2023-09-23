@@ -11,7 +11,7 @@
 
 ## Installation
 
-1. Download the plugin ZIP file from the [Releases](https://github.com/your-username/your-repo/releases) page.
+1. Download the plugin ZIP file from the [Releases](https://github.com/suraj0023/plugin_weather) page.
 2. Log in to your WordPress admin panel.
 3. Go to **Plugins > Add New**.
 4. Click on the **Upload Plugin** button.
